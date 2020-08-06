@@ -1,10 +1,10 @@
-package net.sendcloud.dao;
+package net.sendcloud.common;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DaoApplicationTests {
+class CommonApplicationTests {
 
     @Test
     void contextLoads() {
